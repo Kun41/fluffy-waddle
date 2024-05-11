@@ -1,3 +1,2 @@
 # refur leik
-
-[walkthrough](https://google.com)
+allt er a wiki
